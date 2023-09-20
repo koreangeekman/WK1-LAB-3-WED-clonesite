@@ -4,12 +4,14 @@ body {
 
 i {
   font-size: 5em;
+  color: red;
 }
 
 .card {
   background-color: white;
-  border: 2px grey;
+  border: 1px solid grey;
   text-align: center;
+  padding: 5px;
 }
 
 .redText {
